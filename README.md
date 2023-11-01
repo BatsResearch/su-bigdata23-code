@@ -1,7 +1,10 @@
 # Leveraging Large Language Models for Structure Learning in Prompted Weak Supervision
 
 This repository host the code for IEEE BigData 23 Paper "Leveraging Large Language Models for Structure Learning in Prompted Weak Supervision"
-This paper explores how to leverage Large Language Models to obtain structural information for prompted weak supervision setup.
+This paper explores a modular approach to leverage Large Language Models to obtain structural information for prompted weak supervision setup.
+
+![alt text](assets/diagram.png)
+
 
 ## Citation 
 
