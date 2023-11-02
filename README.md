@@ -1,6 +1,7 @@
 # Leveraging Large Language Models for Structure Learning in Prompted Weak Supervision
+### Jinyan Su<sup>*</sup>, Peilin Yu<sup>*</sup>, Jieyu Zhang, Stephen H. Bach
 
-This repository host the code for IEEE BigData 23 Paper "Leveraging Large Language Models for Structure Learning in Prompted Weak Supervision"
+This repository host the code for the preliminary experiments in ENLSP-23 Workshop Paper "Structure Discovery in Prompted Weak Superviison" and full experiments in IEEE BigData 23 Paper "Leveraging Large Language Models for Structure Learning in Prompted Weak Supervision".
 This paper explores a modular approach to leverage Large Language Models to obtain structural information for prompted weak supervision setup.
 
 ![alt text](assets/diagram.png)
